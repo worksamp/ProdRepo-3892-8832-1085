@@ -9,7 +9,7 @@ namespace MvcApplicationTest.Controllers
     public class HomeController : Controller
     {
         public ActionResult Index()
-        {
+        {//hi
             return View();
         }
     }
