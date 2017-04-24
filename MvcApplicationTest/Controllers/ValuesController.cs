@@ -12,6 +12,7 @@ namespace MvcApplicationTest.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
+            //Added on 4/24/2017
             return new string[] { "value1", "value2" };
         }
 
