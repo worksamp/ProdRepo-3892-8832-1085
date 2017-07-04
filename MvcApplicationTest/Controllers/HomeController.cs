@@ -9,8 +9,7 @@ namespace MvcApplicationTest.Controllers
     public class HomeController : Controller
     {
         public ActionResult Index()
-        {
-        jhjjhj
+        {        
             return View();
         }
     }
